@@ -16,6 +16,6 @@ Create a file called `config.php` and populate it with your Twilio account infor
 
 	?>
 
-The `index.php` script shows you how to **send** message. [Read this article](https://www.twilio.com/blog/2014/09/getting-started-with-twilio-mms.html) for how to **receive** messages. Setting up ngrok is really simple and lets you have incoming message sent to a local script. You could use `in.php` for that.
+The `index.php` script shows you how to **send** messages. [Read this article](https://www.twilio.com/blog/2014/09/getting-started-with-twilio-mms.html) for how to **receive** messages. Setting up ngrok is really simple and lets you have incoming messages sent to a local script. You could use `in.php` for that.
 
 ![Screenshot of Twilio settings page](screenshot1.jpg)
