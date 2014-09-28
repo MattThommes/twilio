@@ -1,0 +1,17 @@
+{ 
+	"name": "mattthommes/twilio",
+	"description": "Testing Twilio functionality.",
+	"authors": [{
+			"name": "Matt Thommes",
+			"email": "matt@thomm.es",
+			"homepage": "http://matt.thomm.es",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"MattThommes/Global": "1.1",
+		"twilio/sdk": "3.12.6",
+		"fluentdom/fluentdom": "5.x"
+	},
+	"minimum-stability": "dev"
+}
